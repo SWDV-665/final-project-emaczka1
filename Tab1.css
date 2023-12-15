@@ -1,0 +1,6 @@
+@import '../theme/variables.css';
+
+.custom-sliding-item ion-item-options ion-item-option.custom-delete-button {
+    --ion-background-color: var(--ion-color-primary);
+    --ion-color: var(--ion-color-primary-contrast);
+  }
